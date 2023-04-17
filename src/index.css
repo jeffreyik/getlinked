@@ -326,10 +326,6 @@ button.login__googleBtn {
 }
 
 @media (max-width: 477px) {
-  .profile__name {
-    font-size: 10px;
-  }
-
   .profile__link {
     width: 100%;
   }
